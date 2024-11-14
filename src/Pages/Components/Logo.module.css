@@ -1,0 +1,10 @@
+.logo {
+  height: 5.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 10%;
+  font-size: large;
+  text-decoration: none;
+  color: whitesmoke;
+}
